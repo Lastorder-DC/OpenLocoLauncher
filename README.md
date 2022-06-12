@@ -1,7 +1,7 @@
-# OpenRCT2 Launcher
-An Open Source Launcher &amp; Updater for OpenRCT2
+# OpenLoco Launcher
+An Open Source Launcher &amp; Updater for OpenLoco
 
-This is a new launcher for [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2). It's written in C++ using the Qt Framework and supports Windows, Mac OS X and Linux.
+This is WIP launcher for [OpenLoco](https://github.com/OpenLoco/OpenLoco). It's written in C++ using the Qt Framework and supports Windows, Mac OS X and Linux. It's based on [OpenRCT2 Launcher](https://github.com/LRFLEW/OpenRCT2Launcher)
 
 ## Dependencies
 
